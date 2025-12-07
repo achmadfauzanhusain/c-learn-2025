@@ -1,5 +1,2 @@
-"training-1"
+"study group chevallier"
 
-- nama achmad fauzan husain
-- nim 103022400039
-- divisi back end developer
